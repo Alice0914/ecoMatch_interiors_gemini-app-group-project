@@ -3,8 +3,8 @@
 EcoMatch Interiors is a web application that leverages Gemini AI technology to provide personalized, eco-friendly interior design suggestions. The app analyzes room images and user preferences to offer tailored recommendations and visualizations for sustainable home decor.
 
 ## Contributors
+- Alexis Hwang 
 - Alice Kim
-- Alexis Hwang
 - Chris H
 - Joseph Moon
 - Ronin Sharma
