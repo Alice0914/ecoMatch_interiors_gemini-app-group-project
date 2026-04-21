@@ -28,6 +28,7 @@ GEMINI-APP-PROJECT-FLASK
 └── requirements.txt
 ```
 ## Technology Stack Used in This Application
+<img width="800" height="450" alt="GeminiApp-EcoMatch-gif" src="https://github.com/user-attachments/assets/67d1419b-1a1a-4684-bbbc-4bd6ccf49fb2" />
 
 ### Frontend
 
