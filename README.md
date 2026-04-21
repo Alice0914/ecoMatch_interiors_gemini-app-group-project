@@ -1,6 +1,6 @@
 # EcoMatch Interiors - Gemini API APP Developer Competition
 
-<img src="https://github.com/user-attachments/assets/af3ba20a-c090-4da4-88f8-e7abf64cf105" align="left" width="70%" alt="GeminiApp-EcoMatch-gif" style="margin-right: 20px;" />
+<img src="https://github.com/user-attachments/assets/af3ba20a-c090-4da4-88f8-e7abf64cf105" align="left" width="65%" alt="GeminiApp-EcoMatch-gif" style="margin-right: 10px;" />
 
 <b>EcoMatch Interiors</b> is a web application that leverages Gemini AI technology to provide personalized, eco-friendly interior design suggestions. The app analyzes room images and user preferences to offer tailored recommendations and visualizations for sustainable home decor.
 
