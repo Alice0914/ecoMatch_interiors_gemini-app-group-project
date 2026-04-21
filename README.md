@@ -28,13 +28,11 @@ GEMINI-APP-PROJECT-FLASK
 └── requirements.txt
 ```
 ## Technology Stack Used in This Application
-<img width="800" height="450" alt="GeminiApp-EcoMatch-gif" src="https://github.com/user-attachments/assets/67d1419b-1a1a-4684-bbbc-4bd6ccf49fb2" />
-
 ### Frontend
 
 - **JavaScript (JS):** Used for client-side scripting to create interactive and dynamic web pages.
 - **HTML & CSS:** Utilizes Tailwind CSS classes for styling and structuring the user interface.
-
+<img width="800" height="450" alt="GeminiApp-EcoMatch-gif" src="https://github.com/user-attachments/assets/67d1419b-1a1a-4684-bbbc-4bd6ccf49fb2" />
 ### Backend
 
 - **Python:** Employed as the primary language for server-side development, providing a robust and scalable environment.
