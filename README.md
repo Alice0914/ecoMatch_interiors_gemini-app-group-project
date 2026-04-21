@@ -35,6 +35,10 @@ GEMINI-APP-PROJECT-FLASK
 - **JavaScript (JS):** Used for client-side scripting to create interactive and dynamic web pages.
 - **HTML & CSS:** Utilizes Tailwind CSS classes for styling and structuring the user interface.
 
+https://github.com/user-attachments/assets/ac3bfa89-dde2-4867-b9ac-687a495467e1
+
+
+
 ### Backend
 
 - **Python:** Employed as the primary language for server-side development, providing a robust and scalable environment.
