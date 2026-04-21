@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td width="70%">
+    <td width="50%">
       <img src="https://github.com/user-attachments/assets/af3ba20a-c090-4da4-88f8-e7abf64cf105" alt="GeminiApp-EcoMatch-gif" width="100%" />
     </td>
     <td width="20%">
